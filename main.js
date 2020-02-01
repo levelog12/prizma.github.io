@@ -1,0 +1,16 @@
+$('document').ready(function(){
+    $('#menu_butt').click(function(){
+    $('#menu').show();
+    $('#menuu').show();
+    $('#menu').animate({height:0},0);
+    $('#menu').animate({height:37},300);
+    $('#menu_butt').hide();
+    });
+    $('#menuu').click(function(){
+    $('#menu_butt').show();
+    $('#menu').animate({height:37},0);
+    $('#menu').animate({height:0},300);
+    $('#menu').hide({},0);
+    $('#menuu').hide();
+    });
+    });

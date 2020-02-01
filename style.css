@@ -1,0 +1,98 @@
+body{
+    background: url(img/WqTJgzgHUj8.jpg);
+    padding: 0;
+    margin: 0;
+    background-attachment: fixed;
+    position: absolute;
+    min-height: 100%;
+    min-width: 100%;
+    }
+    
+    
+    .glav{
+    font-size:50px;
+    text-align: ;
+    background-color:black;
+    display: inline;
+    color:wheat;
+    }
+    
+    .A{
+    font-size:50px;
+    text-align: ;
+    background-color:#64AAD0;
+    display: inline;
+    color:blue;
+    }
+    
+    .text{
+    font-size:50px;
+    display: inline-flexbox;
+    color:white;
+    }
+    .p_butt:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    }
+    #menuu {
+    color: red;
+    cursor: pointer;
+    text-align: center;
+    margin-left: 15px;
+    width: 130px;
+    height: 37px;
+    font-size: 20px;
+    font-weight: 700;
+    
+    }
+    #menuu:hover {
+    background-color: black;
+    color: white;
+    text-decoration: none;
+    }
+    .p_butt {
+    text-align: center;
+    margin-left: 15px;
+    width: 130px;
+    height: 37px;
+    cursor: pointer;
+    background-color: gray;
+    color: white;
+    display: inline-flexbox;
+    }
+    
+    .BB{
+    font-size: 50px;
+    color: red;
+    }
+    a {
+    text-decoration: none;
+    }
+    #menu {
+    background-color: gray;
+    color: white;
+    position: fixed;
+    width: 100%;
+    display: none;
+    
+    }
+    #menu1 {
+    display: inline-flex;
+    }
+    #menu_butt {
+    padding: 10px;
+    margin: 20px;
+    font-weight: 600;
+    font-size: 25px;
+    color: white;
+    cursor: pointer;
+    display: inline;
+    }
+    #menu_butt:hover {
+    color: red;
+    }
+    .block {
+    margin-top: 5%;
+    }
+    
